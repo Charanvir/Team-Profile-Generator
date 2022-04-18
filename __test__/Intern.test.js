@@ -20,3 +20,9 @@ test("get all intern information, with new getRole function", () => {
 
     expect(intern.getRole()).toHaveProperty("school")
 })
+
+test("get interns school name from function", () => {
+    const intern = new Intern("Charanvir", 1, 'charanvir123@gmail.com', "McMaster")
+
+    expect(intern.getSchool()).toEqual(intern.school)
+})
