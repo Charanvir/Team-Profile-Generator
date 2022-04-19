@@ -51,7 +51,7 @@ The following images show the prompt that is displayed on the command line and a
 
 <img src="./assets/images/terminal.png" width="500"> <img src="./assets/images/product.png" width="500">
 
-The following is a link to a video which shows how the application is used: [Team Profile Generator Walkthrough Video](https://vimeo.com/699325065)
+The following is a link to a video which shows how the application is used: [Team Profile Generator Walkthrough Video](https://vimeo.com/700989728)
 
 ## Contributing
 ***
