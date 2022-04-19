@@ -7,11 +7,31 @@ header h1 {
     padding-top: 20px;
 }
 
-.cardSection {
-    background-color: lightyellow;
-    border: 1px solid lightblue;
-}
-
 section .card {
     margin: 5% 0;
+}
+
+.manager {
+    border: 1px solid black;
+    border-radius: 5%;
+    background-color: navajowhite;
+    padding: 10%;
+}
+
+.engineer {
+    border: 1px solid black;
+    border-radius: 5%;
+    background-color: lightblue;
+    padding: 10%;
+}
+
+.intern {
+    border: 1px solid black;
+    border-radius: 5%;
+    background-color: thistle;
+    padding: 10%;
+}
+
+.card {
+    border: none;
 }
