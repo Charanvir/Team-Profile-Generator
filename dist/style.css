@@ -1,0 +1,17 @@
+header div {
+    height: 100px;
+}
+
+header h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.cardSection {
+    background-color: lightyellow;
+    border: 1px solid lightblue;
+}
+
+section .card {
+    margin: 5% 0;
+}
